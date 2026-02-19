@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "制服と太陽",
+  "base_artist": "Keyakizaka46",
+  "createdAt": "2026-02-19T07:12:22.035826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "制服と太陽",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/01_制服と太陽_Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seifuku to Taiyou (制服と太陽) - off-vocal -",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/02_Seifuku_to_Taiyou_(制服と太陽)_-_off-vocal_-_Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Seifuku to Taiyou (制服と太陽)",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/03_Seifuku_to_Taiyou_(制服と太陽)_Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "制服と太陽",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/04_制服と太陽_Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "制服と太陽",
+      "artist": "Sakurazaka46",
+      "has_synced": true,
+      "path": "select/05_制服と太陽_Sakurazaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "制服と太陽",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_01_制服と太陽_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "制服と太陽",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_02_制服と太陽_欅坂46.txt"
+    }
+  ]
+}
